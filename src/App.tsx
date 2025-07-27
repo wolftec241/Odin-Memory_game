@@ -1,5 +1,4 @@
-import { useEffect, useState } from 'react';
-import React from 'react';
+import {useState } from 'react';
 import { JSX } from 'react';
 import charactersData from './characters.json'
 import './App.css'

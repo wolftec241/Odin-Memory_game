@@ -1,0 +1,58 @@
+#app {
+  max-width: 1280px;
+  min-width: 700px;
+  width: 85vw;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+
+}
+
+.score-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.character-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2rem; 
+}
+
+.card {
+  padding: 2em;
+  background-color: #1a1a1a;
+  align-items: center;
+}
+
+.card > img{
+  max-width: 100%;
+  width: 180px;
+  height: 240px;
+  ;
+}
+
+.card > h2{
+  font-size: 1.2rem;
+  margin: 0.5em 0;
+}
+
+
+.congratulations{
+  font-size: 2rem;
+  color: #646cff;
+  margin: 1rem 0;
+  display: overlay;
+}
+
+

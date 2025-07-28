@@ -2,52 +2,52 @@
   "characters": [
     {
       "name": "Butters",
-      "img": "src/assets/characters/Butters.webp",
+      "img": "/characters/Butters.webp",
       "index": 1
     },
     {
       "name": "Cartman",
-      "img": "src/assets/characters/Cartman.webp",
+      "img": "/characters/Cartman.webp",
       "index": 2
     },
     {
       "name": "Heidi",
-      "img": "src/assets/characters/Heidi.webp",
+      "img": "/characters/Heidi.webp",
       "index": 3
     },
     {
       "name": "Jason",
-      "img": "src/assets/characters/Jason.webp",
+      "img": "/characters/Jason.webp",
       "index": 4
     },
     {
       "name": "Jimmy",
-      "img": "src/assets/characters/Jimmy.webp",
+      "img": "/characters/Jimmy.webp",
       "index": 5
     },
     {
       "name": "Kenny",
-      "img": "src/assets/characters/Kenny.webp",
+      "img": "/characters/Kenny.webp",
       "index": 6
     },
     {
       "name": "Kyle",
-      "img": "src/assets/characters/Kyle.webp",
+      "img": "/characters/Kyle.webp",
       "index": 7
     },
     {
       "name": "Stan",
-      "img": "src/assets/characters/Stan.webp",
+      "img": "/characters/Stan.webp",
       "index": 8
     },
     {
       "name": "Timmy",
-      "img": "src/assets/characters/Timmy.webp",
+      "img": "/characters/Timmy.webp",
       "index": 9
     },
     {
       "name": "Tolkien",
-      "img": "src/assets/characters/Tolkien.webp",
+      "img": "/characters/Tolkien.webp",
       "index": 10
     }
   ]
